@@ -315,6 +315,7 @@ Windows用户可以从 https://www.gyan.dev/ffmpeg/builds/ 下载
 4. 确保使用最新版本的程序
 
 如果你喜欢该项目，就帮我点个star吧！
+扫码请我喝杯奶茶吧！
 ![image](https://github.com/user-attachments/assets/2446c25a-afc0-4745-b30d-a95b37b6faef)
 
 
