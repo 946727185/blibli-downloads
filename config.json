@@ -1,0 +1,11 @@
+{
+    "quality": "BEST",
+    "max_workers": 16,
+    "download_path": "./downloads",
+    "download_content": [
+        "VIDEO",
+        "AUDIO"
+    ],
+    "theme": "default",
+    "proxies": null
+}

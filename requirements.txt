@@ -1,0 +1,4 @@
+requests
+rich
+yt-dlp
+customtkinter 
