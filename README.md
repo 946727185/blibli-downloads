@@ -2,8 +2,6 @@
 # Bilibili 批量下载助手 GUI 版
 这是一个基于 Python 和 customtkinter 构建的 Bilibili 视频下载工具，提供了图形用户界面，方便用户下载单视频、合集、批量下载以及进行相关设置。
 
-这是一个基于 Python 和 customtkinter 构建的 Bilibili 视频下载工具，提供了图形用户界面，方便用户下载单视频、合集、批量下载以及进行相关设置。
-
 ## 功能特性
 
 *   **图形用户界面**: 使用 customtkinter 提供现代化且直观的操作界面。
